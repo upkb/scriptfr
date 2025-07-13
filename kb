@@ -4,7 +4,7 @@ local player = Players.LocalPlayer
 local playerGui = player:WaitForChild("PlayerGui")
 
 local screenGui = Instance.new("ScreenGui")
-screenGui.Name = "Kbs Script"
+screenGui.Name = "Loading Script.."
 screenGui.ResetOnSpawn = false
 screenGui.Parent = playerGui
 
