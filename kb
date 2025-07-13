@@ -38,7 +38,7 @@ loadingText.BackgroundTransparency = 1
 loadingText.TextColor3 = Color3.fromRGB(255, 255, 255)
 loadingText.Font = Enum.Font.GothamBold
 loadingText.TextSize = 36
-loadingText.Text = "Kbs Script"
+loadingText.Text = "Loading Script.."
 loadingText.Parent = loadingFrame
 
 -- Progress Bar
